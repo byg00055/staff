@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+#foot_warp{
+	width:1280px;
+	height:100px;
+	position:absolute;
+	background-color: #0b0;
+}

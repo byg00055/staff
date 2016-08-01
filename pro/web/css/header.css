@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+/* 머리말을 구성하는 div를 장식하는  css양식*/
+#head_warp{
+/*	넓이는 base의 넓이인 1024px, 높이는 192px(추후 화면 구성 후 조절)*/
+	width:1280px;
+	height:160px;
+/*	영역 표시용 외곽선. 추후 삭제 혹은 예쁘게 수정.*/	
+	border: 1px solid #000;
+/*	영역 표시용 색깔. 추후 삭제 혹은 예쁘게 수정.*/	
+	background-color: #aaa;
+}
