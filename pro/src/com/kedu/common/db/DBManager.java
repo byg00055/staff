@@ -12,7 +12,7 @@ import javax.naming.NamingException;
 import javax.sql.DataSource;
 
 public class DBManager {
-
+// 	github 처리?
 //	커넥션을 얻어오는 메소드
 	public static Connection getConnection(){
 		Connection conn = null;
