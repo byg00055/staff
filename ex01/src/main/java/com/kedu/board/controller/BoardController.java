@@ -27,7 +27,7 @@ public class BoardController {
 	public void registerGET(BoardDto board, Model model) throws Exception{
 		logger.info("register get ............");
 	}
-	
+	 
 	@RequestMapping(value = "/register", method = RequestMethod.POST)
 	public String registerPOST(BoardDto board, RedirectAttributes rttr) throws Exception{
 		
